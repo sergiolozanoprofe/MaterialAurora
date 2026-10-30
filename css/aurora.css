@@ -422,7 +422,7 @@ dialog::backdrop {
 
 iframe {
     width: 100%;
-    min-height: 220px;
+    min-height: 350px;
     border: 1px solid var(--border);
     border-radius: 12px;
     background: white;
